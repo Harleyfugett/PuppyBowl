@@ -1,0 +1,35 @@
+.detailsImage {
+    width: 250px;
+    height: 350px;
+}
+
+.cards {
+    display: flex;
+    width: 350px;
+    height: auto;
+    background-color: darksalmon;
+    margin: 3%;
+    flex-direction: column;
+}
+
+/* .detailsCont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+.fullCont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.puppyName {
+    display: flex;
+    text-decoration: none;
+}
+
+.navBar {
+    display: flex;
+    background-color: darksalmon;
+}
